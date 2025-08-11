@@ -1,0 +1,15 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/*.avi
+data/*.mp4
+
+results/
+
+.vscode/
+.idea/
